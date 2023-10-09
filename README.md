@@ -1,5 +1,5 @@
 # Cat Photo App
-The purpose of this repo is to monitor my progress in learning HTML by making a basic CatPhotoApp. I am utilizing the freeCodeCamp "Learn HTML by Building a Cat Photo App" for this repo.
+The purpose of this repo is to monitor my progress in learning HTML by making a basic CatPhotoApp. I am utilizing the freeCodeCamp [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app) for this repo.
 
 ## Screenshots
 <img src="assets/readme-screenshots/output_1stPage.png" alt="First page output"/>
